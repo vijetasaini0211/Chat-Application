@@ -1,0 +1,26 @@
+{
+  "name": "chattingapp",
+  "version": "1.0.0",
+  "description": "chat application",
+  "main": "index.js",
+  "dependencies": {
+    "bad-words": "^3.0.4",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6",
+    "socket.io": "^3.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijetasaini0211/Chat-Application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijetasaini0211/Chat-Application/issues"
+  },
+  "homepage": "https://github.com/vijetasaini0211/Chat-Application#readme"
+}
